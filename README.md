@@ -1,23 +1,19 @@
-## Hi there, I'm Adel 👋
+## Hi there, I'm Adel <img src="https://komarev.com/ghpvc/?username=AdelDaniel" alt="Adel Daniel" /> 👋
  
- <img src="https://komarev.com/ghpvc/?username=AdelDaniel" alt="Adel Daniel" />
 
 ### contact with me:
-
-<center>
-    <a href="https://www.linkedin.com/in/adel55/">
+<a href="https://www.linkedin.com/in/adel55/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png"
            alt="Adel Nabil Daniel LinkedIn Profile" height="30" width="30">
-    </a>
-    <a href="adel.nabil.w222@gmail.com">
+</a>
+<a href="adel.nabil.w222@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
            alt="Adel Nabil Daniel Gmail Account" height="30" width="30">
-    </a>
-</center>
+</a>
 
 ### Objective
 
-<p >
+<p>
 A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside.
 </p>
 
@@ -32,8 +28,7 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ⚽playing Football⚽ 🏓Ping Pong🏓 🎱billiards🎱
-  <br />
-
+  
 <br />
 
 ### Languages and Tools:
@@ -58,7 +53,6 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 </div>
 
 ---
-
 ### 📱 Latest Projects
 
 - My eCommerce: [https://github.com/AdelDaniel/my_ecommerce](https://github.com/AdelDaniel/my_ecommerce)
@@ -70,9 +64,12 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - XO : [https://github.com/AdelDaniel/X_O-game-tik-tok-toe](https://github.com/AdelDaniel/X_O-game-tik-tok-toe)
 - My Kitchen : [https://github.com/AdelDaniel/my_kitchen](https://github.com/AdelDaniel/my_kitchen)
 
-
-
 ---
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdelDaniel&show_icons=true&theme=radical&layout=compact"  width =50% >
-<img src = "https://github-readme-stats.vercel.app/api?username=AdelDaniel&show_icons=true&theme=radical" width =50% >
-
+<div>
+ <table>
+  <tr>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdelDaniel&show_icons=true&theme=radical&layout=compact"  width =50% >
+  <img src = "https://github-readme-stats.vercel.app/api?username=AdelDaniel&show_icons=true&theme=radical" width =50% >
+  </tr>
+ </table>
+</div>
