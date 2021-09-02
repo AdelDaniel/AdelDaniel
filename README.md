@@ -53,7 +53,7 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 </div>
 
 ---
-### 📱 Latest Projects
+### 📱 Flutter Projects
 
 - My eCommerce: [https://github.com/AdelDaniel/my_ecommerce](https://github.com/AdelDaniel/my_ecommerce)
 - Task List: [https://github.com/AdelDaniel/task_list](https://github.com/AdelDaniel/task_list)
@@ -61,10 +61,23 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - Coronavirus Tracker : [https://github.com/AdelDaniel/coronavirus_tracker](https://github.com/AdelDaniel/coronavirus_tracker)
 - The Weather : [https://github.com/AdelDaniel/the_weather](https://github.com/AdelDaniel/the_weather)
 - BMI : [https://github.com/AdelDaniel/bmi-calculator-flutter-application](https://github.com/AdelDaniel/bmi-calculator-flutter-application)
-- XO : [https://github.com/AdelDaniel/X_O-game-tik-tok-toe](https://github.com/AdelDaniel/X_O-game-tik-tok-toe)
 - My Kitchen : [https://github.com/AdelDaniel/my_kitchen](https://github.com/AdelDaniel/my_kitchen)
 
 ---
+
+### 📱 Android Java Projects
+
+-  XO : [https://github.com/AdelDaniel/X_O-game-tik-tok-toe](https://github.com/AdelDaniel/X_O-game-tik-tok-toe)
+
+---
+### 💻 Node.Js Projects
+
+- Know Weather By Adel!:
+ >  - GitHub Reop: [https://github.com/AdelDaniel/weather-website-nodeJs](https://github.com/AdelDaniel/weather-website-nodeJs)
+ >  - Production: [ https://weather-app-nodejs-adel.herokuapp.com/]( https://weather-app-nodejs-adel.herokuapp.com/)
+ 
+---
+
 <div>
  <table>
   <tr>
