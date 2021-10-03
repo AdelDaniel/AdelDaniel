@@ -4,7 +4,7 @@
 ### contact with me:
 <a href="https://www.linkedin.com/in/adel55/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png"
-           alt="Adel Nabil Daniel LinkedIn Profile" height="30px " width="30px">
+           alt="Adel Nabil Daniel LinkedIn Profile" height="4%" width="4%">
 </a>
 <!-- <a href="adel.nabil.w222@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
