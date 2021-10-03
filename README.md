@@ -4,7 +4,7 @@
 ### contact with me:
 <a href="https://www.linkedin.com/in/adel55/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png"
-           alt="Adel Nabil Daniel LinkedIn Profile" height="30" width="30">
+           alt="Adel Nabil Daniel LinkedIn Profile" height="30px " width="30px">
 </a>
 <!-- <a href="adel.nabil.w222@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
@@ -17,19 +17,23 @@
 A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside.
 </p>
 
-- 🔭 I’m currently working on:
+<!-- - 🔭 I’m currently working on:
   <img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png"
            alt="Flutter Icon" height="30" align="center" >
+           
 
 - 🌱 I’m currently learning: 📖Flutter 📖Dart 📖Firebase 📖Clean_Code 📖Sql 📖Design_Pattern and MORE📖📖📖📖
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ⚽playing Football⚽ 🏓Ping Pong🏓 🎱billiards🎱
   
-<br />
+<br /> -->
+
+<!-- 
+
 
 ### Languages and Tools:
 
@@ -52,6 +56,9 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
   <img align="center" alt="RXDart" height="30px" src="https://avatars.githubusercontent.com/u/6407041?s=200&v=4" />
 </div>
 
+ -->
+ 
+ 
 ---
 ### 📱 Flutter Projects
 
