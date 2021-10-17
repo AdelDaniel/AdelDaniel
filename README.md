@@ -68,8 +68,9 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - Coronavirus Tracker : [https://github.com/AdelDaniel/coronavirus_tracker](https://github.com/AdelDaniel/coronavirus_tracker)
 - The Weather : [https://github.com/AdelDaniel/the_weather](https://github.com/AdelDaniel/the_weather)
 - BMI : [https://github.com/AdelDaniel/bmi-calculator-flutter-application](https://github.com/AdelDaniel/bmi-calculator-flutter-application)
-- My Kitchen : [https://github.com/AdelDaniel/my_kitchen](https://github.com/AdelDaniel/my_kitchen)
+- my-wallet: [https://github.com/AdelDaniel/my-wallet](https://github.com/AdelDaniel/my-wallet)
 - Shop : [https://github.com/AdelDaniel/shop-E-Commerce-App-Flutter](https://github.com/AdelDaniel/shop-E-Commerce-App-Flutter)
+- My Kitchen : [https://github.com/AdelDaniel/my_kitchen](https://github.com/AdelDaniel/my_kitchen)
 
 ---
 
@@ -83,6 +84,9 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - Know Weather By Adel!:
  >  - GitHub Reop: [https://github.com/AdelDaniel/weather-website-nodeJs](https://github.com/AdelDaniel/weather-website-nodeJs)
  >  - Production: [ https://weather-app-nodejs-adel.herokuapp.com/]( https://weather-app-nodejs-adel.herokuapp.com/)
+ 
+ -Task Manager API:
+ >  - GitHub Reop: [https://github.com/AdelDaniel/task-manager-api](https://github.com/AdelDaniel/task-manager-api)
  
 ---
 
