@@ -69,6 +69,7 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 - The Weather : [https://github.com/AdelDaniel/the_weather](https://github.com/AdelDaniel/the_weather)
 - BMI : [https://github.com/AdelDaniel/bmi-calculator-flutter-application](https://github.com/AdelDaniel/bmi-calculator-flutter-application)
 - My Kitchen : [https://github.com/AdelDaniel/my_kitchen](https://github.com/AdelDaniel/my_kitchen)
+- Shop : [https://github.com/AdelDaniel/shop-E-Commerce-App-Flutter](https://github.com/AdelDaniel/shop-E-Commerce-App-Flutter)
 
 ---
 
