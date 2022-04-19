@@ -2,14 +2,22 @@
  
 
 ### contact with me:
+
+<!--
 <a href="https://www.linkedin.com/in/adel55/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png"
            alt="Adel Nabil Daniel LinkedIn Profile" height="4%" width="4%">
 </a>
-<!-- <a href="adel.nabil.w222@gmail.com">
+
+ <a href="adel.nabil.w222@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
            alt="Adel Nabil Daniel Gmail Account" height="30" width="30">
 </a> -->
+
+ 
+ <a href="https://www.linkedin.com/in/adel55/" target="_blank"><img alt="https://www.linkedin.com/in/adel55/" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<hr>
 
 ### Objective
 
