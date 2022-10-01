@@ -103,6 +103,13 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
  
 ---
 
+### Learning Repositories
+
+- Design Patterns In Dart: [https://github.com/AdelDaniel/learn-design-patterns-in-dart)
+---
+
+
+
 <div>
  <table>
   <tr>
