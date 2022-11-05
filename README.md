@@ -106,12 +106,16 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
  >  - GitHub Reop: [https://github.com/AdelDaniel/task-manager-api](https://github.com/AdelDaniel/task-manager-api)
  
 ---
+### 📖 Learning Repositories
 
-### Learning Repositories
+- Design Patterns In Dart: [https://github.com/AdelDaniel/learn-design-patterns-in-dart](https://github.com/AdelDaniel/learn-design-patterns-in-dart) 
 
-- Design Patterns In Dart: [https://github.com/AdelDaniel/learn-design-patterns-in-dart)
 ---
+### 💻 Gists
 
+- Snippet, I used in vs-code for dart programming language and flutter: [https://gist.github.com/AdelDaniel/1208c507685c6df5e166bd30f5f685e0](https://gist.github.com/AdelDaniel/1208c507685c6df5e166bd30f5f685e0)
+ 
+---
 
 
 <div>
