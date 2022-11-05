@@ -40,32 +40,36 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
   
 <br /> -->
 
-<!-- 
 
 
-### Languages and Tools:
-
-<div class="row" align="center">
-  <img align="center" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="center" alt="Flutter" height="30px" src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png" />
-  <img align="center" alt="Dart" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrWjnWnCH_9sNR_e3XxIEiW3YkcxHZNo2cy191BxHLHZRoNYy50dRlCZxP6jmYJgdKME&usqp=CAU" />
-  <img align="center" alt="Bloc State Management" height="30px" src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" />
-  <img align="center" alt="FireBase" height="30px" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png" />
-  <img align="center" alt="C++" height="30px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
-  <img align="center" alt="C Programming Language" height="30px" src="https://softline.rs/wp-content/uploads/2020/06/C-programiranje.png" />
-  <img align="center" alt="Java" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
-  <img align="center" alt="json" height="30px" src="https://image.flaticon.com/icons/png/512/136/136525.png" />
-  <img align="center" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="center" alt="GitHub" height="30px" src="https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png" />
-  <img align="center" alt="GetX" height="30px" src="https://media.vlpt.us/images/giyeon/post/98df34b8-49a3-48e9-9d5e-dcd9f5b62e49/KakaoTalk_Photo_2021-05-12-11-18-13.png" />
-  <img align="center" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img align="center" alt="SQLite" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/sqlite-282687.png" />
-  <img align="center" alt="RXDart" height="30px" src="https://avatars.githubusercontent.com/u/6407041?s=200&v=4" />
-</div>
-
- -->
+---
  
+### :hammer_and_wrench: Languages and Tools :
+ 
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp", alt="csharp" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus", alt="cplusplus" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C", alt="C" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira", alt="jira" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm", alt="npm" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio", alt="androidstudio" width ="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman", alt="postman" width ="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" title="Bloc State Management" alt="Bloc State Management" width="40" height="40" />&nbsp;
+  <img src="https://joinup.ec.europa.eu/sites/default/files/inline-images/json-logo.png" title="JSON" alt="JSON" width="40" height="40" />&nbsp;
+ 
+</div>
  
 ---
 ### 📱 Flutter Projects
