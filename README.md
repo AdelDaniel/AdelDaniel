@@ -1,4 +1,5 @@
-## Hi there, I'm Adel <img src="https://komarev.com/ghpvc/?username=AdelDaniel" alt="Adel Daniel" /> 👋
+## Hi there, I'm Adel <img src="https://komarev.com/ghpvc/?username=AdelDaniel" alt="Adel Daniel" /> 👋  
+<a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 
 ### contact with me:
@@ -14,10 +15,16 @@
            alt="Adel Nabil Daniel Gmail Account" height="30" width="30">
 </a> -->
 
+<a href="https://www.linkedin.com/in/adel55/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/adel55/" height="20" width="30" />
+</a>
+
+<a href="adel.nabil.w222@gmail.com">
+  <img align="center" alt="adel.nabil.w222@gmail.com" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
+</a>
  
- <a href="https://www.linkedin.com/in/adel55/" target="_blank"><img alt="https://www.linkedin.com/in/adel55/" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
- 
- <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 <hr>
 
@@ -48,28 +55,28 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
  
 ### :hammer_and_wrench: Languages and Tools :
  
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+ <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm", alt="npm" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp", alt="csharp" width ="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus", alt="cplusplus" width ="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C", alt="C" width ="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira", alt="jira" width ="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm", alt="npm" width ="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio", alt="androidstudio" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira", alt="jira" width ="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio", alt="androidstudio" width ="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman", alt="postman" width ="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" title="Bloc State Management" alt="Bloc State Management" width="40" height="40" />&nbsp;
-  <img src="https://joinup.ec.europa.eu/sites/default/files/inline-images/json-logo.png" title="JSON" alt="JSON" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" title="Bloc State Management" alt="Bloc State Management"  height="40" />&nbsp;
+  <img src="https://joinup.ec.europa.eu/sites/default/files/inline-images/json-logo.png" title="JSON" alt="JSON"  height="40" />&nbsp;
  
 </div>
  
@@ -128,3 +135,8 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
   </tr>
  </table>
 </div>
+ 
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdelDaniel&theme=matrix&margin-w=2&column=7" alt="AdelDaniel" /></a>
+</p>
+ 
