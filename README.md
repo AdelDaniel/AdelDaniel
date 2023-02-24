@@ -1,30 +1,16 @@
 ## Hi there, I'm Adel <img src="https://komarev.com/ghpvc/?username=AdelDaniel" alt="Adel Daniel" /> 👋  
-<a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
-
 ### contact with me:
-
-<!--
-<a href="https://www.linkedin.com/in/adel55/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png"
-           alt="Adel Nabil Daniel LinkedIn Profile" height="4%" width="4%">
-</a>
-
- <a href="adel.nabil.w222@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
-           alt="Adel Nabil Daniel Gmail Account" height="30" width="30">
-</a> -->
 
 <a href="https://www.linkedin.com/in/adel55/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/adel55/" height="20" width="30" />
 </a>
 
-<a href="adel.nabil.w222@gmail.com">
+<!-- <a href="adel.nabil.w222@gmail.com">
   <img align="center" alt="adel.nabil.w222@gmail.com" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
-</a>
+</a> -->
  
-
 
 <hr>
 
@@ -32,6 +18,8 @@
 
 <p>
 A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside.
+ 
+ <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
 <!-- - 🔭 I’m currently working on:
@@ -55,7 +43,7 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
  
 ### :hammer_and_wrench: Languages and Tools :
  
- <div align="center">
+ <div align="start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
@@ -127,7 +115,7 @@ A Flutter Developer Loves to create powerful applications, offering skills in mp
 ---
 
 
-<div>
+<div align="center">
  <table>
   <tr>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdelDaniel&show_icons=true&theme=radical&layout=compact"  width =50% >
