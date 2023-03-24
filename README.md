@@ -17,7 +17,13 @@
 ### Objective
 
 <p>
-A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside.
+ A Mobile Developer with over one year of experience in designing and developing powerful mobile applications using Flutter. Proficient in developing complex and responsive user interfaces, integrating RESTful APIs, and implementing mobile app features using various third-party libraries.
+
+As a Mobile Flutter Developer, my goal is to continue to leverage my skills and experience to design and develop high-quality, user-friendly mobile applications that meet the needs and expectations of end-users, while staying up-to-date with the latest technologies, tools, and trends in mobile app development.
+ 
+ 
+ 
+<!-- A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside. -->
  
  <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
