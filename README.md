@@ -124,13 +124,13 @@ As a Mobile Flutter Developer, my goal is to continue to leverage my skills and 
 <div align="center">
  <table>
   <tr>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdelDaniel&show_icons=true&theme=radical&layout=compact"  width =50% >
-  <img src = "https://github-readme-stats.vercel.app/api?username=AdelDaniel&show_icons=true&theme=radical" width =50% >
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdelDaniel&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact"  width =50% > -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=AdelDaniel&include_all_commits=true&count_private=true&show_icons=true&theme=dark&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width =50% >
   </tr>
  </table>
 </div>
  
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdelDaniel&theme=matrix&margin-w=2&column=7" alt="AdelDaniel" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdelDaniel&theme=matrix&margin-w=2&column=8" alt="AdelDaniel" /></a>
 </p>
  
