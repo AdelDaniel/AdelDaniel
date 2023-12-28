@@ -73,7 +73,10 @@ As a Mobile Flutter Developer, my goal is to continue to leverage my skills and 
   <img src="https://joinup.ec.europa.eu/sites/default/files/inline-images/json-logo.png" title="JSON" alt="JSON"  height="40" />&nbsp;
  
 </div>
- 
+
+
+
+ <!--
 ---
 ### 📱 Flutter Projects
 
@@ -119,7 +122,7 @@ As a Mobile Flutter Developer, my goal is to continue to leverage my skills and 
 - Snippet, I used in vs-code for dart programming language and flutter: [https://gist.github.com/AdelDaniel/1208c507685c6df5e166bd30f5f685e0](https://gist.github.com/AdelDaniel/1208c507685c6df5e166bd30f5f685e0)
  
 ---
-
+/> -->
 
 <div align="center">
  <table>
