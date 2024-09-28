@@ -17,9 +17,7 @@
 ### Objective
 
 <p>
- A Mobile Developer with over one year of experience in designing and developing powerful mobile applications using Flutter. Proficient in developing complex and responsive user interfaces, integrating RESTful APIs, and implementing mobile app features using various third-party libraries.
-
-As a Mobile Flutter Developer, my goal is to continue to leverage my skills and experience to design and develop high-quality, user-friendly mobile applications that meet the needs and expectations of end-users, while staying up-to-date with the latest technologies, tools, and trends in mobile app development.
+Dynamic Mobile Developer specializing in creating and optimizing high-performance mobile applications. Proven expertise in transforming complex requirements into seamless UI/UX designs while adhering to clean code principles. Skilled in developing and deploying both mobile and web applications using Flutter, with extensive experience in integrating payment methods, Firebase, chat functionalities, and analytics tools. Demonstrates critical thinking, decision-making, and problem-solving abilities, complemented by strong time management, multitasking, and communication skills. Eager to leverage my skills and experience to design and deliver high-quality, user-centric mobile applications that align with user needs and expectations, while keeping abreast of the latest trends and technologies in mobile app development.
  
  
  
