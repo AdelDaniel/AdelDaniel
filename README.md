@@ -7,24 +7,26 @@
       alt="https://www.linkedin.com/in/adel55/" height="20" width="30" />
 </a>
 
+
+
 <!-- <a href="adel.nabil.w222@gmail.com">
   <img align="center" alt="adel.nabil.w222@gmail.com" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
 </a> -->
  
 
 <hr>
+<a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<!-- 
 ### Objective
-
 <p>
 Dynamic Mobile Developer specializing in creating and optimizing high-performance mobile applications. Proven expertise in transforming complex requirements into seamless UI/UX designs while adhering to clean code principles. Skilled in developing and deploying both mobile and web applications using Flutter, with extensive experience in integrating payment methods, Firebase, chat functionalities, and analytics tools. Demonstrates critical thinking, decision-making, and problem-solving abilities, complemented by strong time management, multitasking, and communication skills. Eager to leverage my skills and experience to design and deliver high-quality, user-centric mobile applications that align with user needs and expectations, while keeping abreast of the latest trends and technologies in mobile app development.
- 
+ -->
  
  
 <!-- A Flutter Developer Loves to create powerful applications, offering skills in mpas🗺️, bloc  and Porvider State Managemnts, Firebase🗄️, sql🗄️ problem-solving, application development, and object-oriented languages to meet the company’s specifications and gain professional experience alongside. -->
  
- <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
+ 
 
 <!-- - 🔭 I’m currently working on:
   <img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png"
@@ -41,10 +43,7 @@ Dynamic Mobile Developer specializing in creating and optimizing high-performanc
   
 <br /> -->
 
-
-
----
- 
+<!--  
 ### :hammer_and_wrench: Languages and Tools :
  
  <div align="start">
@@ -71,7 +70,7 @@ Dynamic Mobile Developer specializing in creating and optimizing high-performanc
   <img src="https://joinup.ec.europa.eu/sites/default/files/inline-images/json-logo.png" title="JSON" alt="JSON"  height="40" />&nbsp;
  
 </div>
-
+-->
 
 
  <!--
@@ -132,6 +131,6 @@ Dynamic Mobile Developer specializing in creating and optimizing high-performanc
 </div>
  
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdelDaniel&theme=matrix&margin-w=2&column=8" alt="AdelDaniel" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdelDaniel&theme=matrix&margin-w=2&column=3" alt="AdelDaniel" /></a>
 </p>
  
