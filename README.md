@@ -15,7 +15,10 @@
  
 
 <hr>
+<div align="center">
 <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</div>
+
 
 <!-- 
 ### Objective
