@@ -8,7 +8,6 @@
 </a>
 
 
-
 <!-- <a href="adel.nabil.w222@gmail.com">
   <img align="center" alt="adel.nabil.w222@gmail.com" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
 </a> -->
@@ -19,6 +18,11 @@
 <a href="https://stackoverflow.com/users/14409491/adel-n-daniel"><img src="https://stackoverflow.com/users/flair/14409491.png?theme=dark" width="208" height="58" alt="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adel N. Daniel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
+<div align="center">
+
+![](https://leetcard.jacoblin.cool/Adel_Daniel?ext=contest)
+
+</div>
 
 <!-- 
 ### Objective
